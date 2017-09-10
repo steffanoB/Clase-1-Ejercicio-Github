@@ -1,8 +1,3 @@
-﻿
-
-
-
-
 ---------------Ejemplo------------------
 Cánepa, Bruno (xxxxxx) -> Usuario Github: brucanepa
 ----------------------------------------
@@ -34,5 +29,5 @@ Rodríguez Fernández, Carolina (173620) --> Usuario Github:
 Rodriguez Fontán, Guillermo Luis (208422) --> Usuario Github: guillerfontan
 Rodríguez Reche, Alejandro (223303) --> Usuario Github:
 Ruiz Jones, Juan Ignacio (182592) --> Usuario Github: juanignacioruiz
-Salazar Branchiccela, Pablo Nicolás (213469) --> Usuario Github:
+Salazar Branchiccela, Pablo Nicolás (213469) --> Usuario Github: pablo0951
 Ventura Shaw, María José (192495) --> Usuario Github: majitoven
