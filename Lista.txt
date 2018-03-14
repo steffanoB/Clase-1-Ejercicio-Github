@@ -1,4 +1,4 @@
-Alvarez Kiriakidis, Javier  (168053) -> Usuario Github:
+﻿Alvarez Kiriakidis, Javier  (168053) -> Usuario Github:
 Aneff Carve, Ivan Alexander (162693) -> Usuario Github:
 Bracco Varela, Jonathan Gabriel (200375) -> Usuario Github:
 Bragança Hopper, Leandro Aparicio (182173) -> Usuario Github:
@@ -21,7 +21,7 @@ Quintana Brun, Nicolás  (208647) -> Usuario Github:
 Rosenblatt Martínez, Santiago Agustín (190850) -> Usuario Github:
 Rufo Conde, Luciano  (201945) -> Usuario Github:
 Rzeszytkowski Lissmann, Martín  (201239) -> Usuario Github:
-Sosa Rippe, Sebastian  (198955) -> Usuario Github:
+Sosa Rippe, Sebastian  (198955) -> Usuario Github: sebastian-sosa
 Souza Machado, Rodrigo  (192787) -> Usuario Github:
 Strauss Sigal, Gonzalo  (213188) -> Usuario Github:
 Talón Ramirez, Mathias  (208990) -> Usuario Github:
