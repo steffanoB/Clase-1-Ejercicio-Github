@@ -8,7 +8,7 @@ Durán Eduarte, María Victoria (210741) -> Usuario Github:
 Fernandez Martinez, Santiago  (188346) -> Usuario Github:
 García López, Germán  (207418) -> Usuario Github:
 González Milessi, Agustín  (183335) -> Usuario Github:
-Jacobo Comas, Federico  (194257) -> Usuario Github:
+Jacobo Comas, Federico  (194257) -> Usuario Github: FedeJacobo
 Kleiman Dobrich, Nahuel  (205110) -> Usuario Github: nahueklei
 Luraschi Barros, Juan Ignacio (194345) -> Usuario Github:
 Mallo Aramburu, Guillermo  (212915) -> Usuario Github:
@@ -18,7 +18,7 @@ Ottavis Etcheverry, Joaquin Guillermo (197841) -> Usuario Github:
 Palay Carbone, Sergio  (66372) -> Usuario Github:
 Pisani Leal, Rodrigo  (202093) -> Usuario Github:
 Quintana Brun, Nicolás  (208647) -> Usuario Github:
-Rosenblatt Martínez, Santiago Agustín (190850) -> Usuario Github:
+Rosenblatt Martínez, Santiago Agustín (190850) -> Usuario Github: tuckyapps
 Rufo Conde, Luciano  (201945) -> Usuario Github:
 Rzeszytkowski Lissmann, Martín  (201239) -> Usuario Github:
 Sosa Rippe, Sebastian  (198955) -> Usuario Github:
