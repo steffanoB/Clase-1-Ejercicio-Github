@@ -9,7 +9,7 @@ Cohen Oks, Diego Marcel (212426) -> Usuario Github:
 Duran Montaña, Eusebio  (202741) -> Usuario Github:
 Eirin Rebellato, Nicolás  (200111) -> Usuario Github:
 Gallo García, Agustina  (200108) -> Usuario Github:
-Gallo García, Micaela  (200104) -> Usuario Github:
+Gallo García, Micaela  (200104) -> Usuario Github:micaGallo
 Ganón Galliazzi, Martín  (205063) -> Usuario Github:
 Miñón Casaretto, Nicolás  (185631) -> Usuario Github:
 Oribe Bajac, Joaquín  (180521) -> Usuario Github:
@@ -20,7 +20,7 @@ Pizzarello Sala, Diego Martín (211576) -> Usuario Github:
 Rainaldi Redon, Federico Claudio (200578) -> Usuario Github:
 Ricaldoni Terra, María Inés (180369) -> Usuario Github:
 Rodriguez Baz, Matias Nicolas (211919) -> Usuario Github:
-Rodriguez Ferragut, Ana Clara (210472) -> Usuario Github:
+Rodriguez Ferragut, Ana Clara (210472) -> Usuario Github: anaclararodriguez
 Rostagnol Szwec, Agustin Emanuel (210033) -> Usuario Github:
 Saavedra Catañy, Martin  (214780) -> Usuario Github:
 Sartori Fatiga, Federico  (212602) -> Usuario Github:
