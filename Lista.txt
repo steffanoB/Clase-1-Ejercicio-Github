@@ -24,7 +24,7 @@ Rodriguez Ferragut, Ana Clara (210472) -> Usuario Github: anaclararodriguez
 Rostagnol Szwec, Agustin Emanuel (210033) -> Usuario Github:
 Saavedra Catañy, Martin  (214780) -> Usuario Github:
 Sartori Fatiga, Federico  (212602) -> Usuario Github: fedesartu
-Silva Messano, Rodolfo Agustín (187061) -> Usuario Github:
+Silva Messano, Rodolfo Agustín (187061) -> Usuario Github: RodoAgus
 Silveira Sendic, Patrick  (213180) -> Usuario Github:psilsen
 Suárez Schiappacasse, Romina  (201773) -> Usuario Github: romina54
 Torrado Murillo, Andrés  (178648) -> Usuario Github:
@@ -34,5 +34,3 @@ De Haedo Falco, Sebastián Raúl (210241) -> Usuario Github: sebadeh
 () -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
-
-
