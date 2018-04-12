@@ -1,35 +1,5 @@
 ﻿---------------Ejemplo------------------
-Medina, Diego (xxxxxx) -> Usuario Github: diegomedina248
+Yani, Kleiman (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
-Abreu Mendez, Federico Anthony (194752) --> Usuario Github:
-Alonso Tomasetti, Lautaro Alejandro (192026) --> Usuario Github:
-Areosa Denevi, Diego Alvaro (194457) --> Usuario Github:
-Balduccio Méndez, Bruno Ricardo (157967) --> Usuario Github:
-Barrios Garcia, Pedro Gabriel (182770) --> Usuario Github:
-Biatturi Camacho, Guillermo Fabián (196285) --> Usuario Github: gbiatturi
-Cabrera Costa, Fernando Guzmán (91321) --> Usuario Github:
-Coelho Gonzalez, Santiago (204113) --> Usuario Github: SantiagoCoelho12
-Comesaña Vidal, Martín (183579) --> Usuario Github:
-Damiani Gianoli, Nicolás (192489) --> Usuario Github:
-De León Díaz, Rodrigo Matías (176311) --> Usuario Github:
-Della Cella Mac Cormack, Andres Mario (193949) --> Usuario Github:
-Duarte Katcher, Rodrigo (217374) --> Usuario Github:
-Erlich Velázquez, Maximiliano (143216) --> Usuario Github:
-Francescoli Rocca, Paola (150273) --> Usuario Github:
-Gallardo Bosca, Felipe (191856) --> Usuario Github:
-Garcia Fischer, Sebastian (205205) --> Usuario Github:
-Iriart Córdoba, Mónica Beatriz (76637) --> Usuario Github: monicairiart
-Kurin Kac, Gonzalo (192488) --> Usuario Github:
-Méndez Ferro, Bruno Martín (202287) --> Usuario Github:
-Patri Martín, Christian Alejandro (205924) --> Usuario Github:  christianPatri
-Peon Ballesteros, Jessica (202554) --> Usuario Github:
-Petrocelli Olivar, Paolo Giovanni (189640) --> Usuario Github: mcpetro
-Racui Rodríguez, Gaston (201027) --> Usuario Github:
-Rodríguez Ayphassorho, Alfredo Nicolás (178370) --> Usuario Github:
-Rodríguez Bianchi, Martín Carlos (166208) --> Usuario Github:martinRodriguezB
-Rodriguez Bianchi, Viviana Lourdes (203579) --> Usuario Github:vivianaRB
-Rodríguez Fernández, Carolina (173620) --> Usuario Github:
-Rodriguez Janeiro, Sebastián Gustavo (192412) --> Usuario Github:
-Virsauskas Saint Hubert, Joaquin (210594) --> Usuario Github: joacotee94
-Zawrzykraj Adler, Sebastian (180110) --> Usuario Github:zebaseta
+Alonso Pintado, Nicolás (153657) --> Usuario Github: nicoalonsop
