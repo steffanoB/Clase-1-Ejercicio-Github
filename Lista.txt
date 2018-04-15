@@ -5,3 +5,4 @@ Yani, Kleiman (xxxxxx) -> Usuario Github: yanikleiman
 Pintos, Rodrigo (184189) -> Usuario Github: RodriP
 Larrosa, Manuel (175136) -> Usuario Github: mlyardino
 Alonso Pintado, Nicolás (153657) --> Usuario Github: nicoalonsop
+Guinea, Allyson (187340) -> Usuario Github: allyguinea
