@@ -1,10 +1,32 @@
 ﻿---------------Ejemplo------------------
-Yani, Kleiman (xxxxxx) -> Usuario Github: yanikleiman
+Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
-Dutra da Silveira, Micaela (185184) --> Usuario Github: micadutra
-Pintos, Rodrigo (184189) -> Usuario Github: RodriP
-Larrosa, Manuel (175136) -> Usuario Github: mlyardino
-Alonso Pintado, Nicolás (153657) --> Usuario Github: nicoalonsop
-Guinea, Allyson (187340) -> Usuario Github: allyguinea
-Comesaña, Martín (183579) -> Usuario Github: martincomesania
+Aguerre Guerisoli, Facundo (187426) -> Usuario Github: 
+Alonso Pintado, Nicolás (153657) -> Usuario Github: nicoalonsop
+Areosa Denevi, Diego Alvaro (194457) -> Usuario Github:
+Bayuk Gómez, Agustín Andrés (213116) -> Usuario Github:
+Berti Ourthe Cabale, Juan Luis (194398) -> Usuario Github:
+Caraballo Manzi, Sebastián Alfredo (200562) -> Usuario Github:
+Comesaña Vidal, Martín (183579) -> Usuario Github: martincomesania
+Díaz Noble, Sergio Daniel (161225) -> Usuario Github:
+Dufourt Fierro, Paula (178419) -> Usuario Github:
+Dutra da Silveira, Micaela (185184) -> Usuario Github: micadutra
+Farinasso Ortiz, Fiorella Natalie (157789) -> Usuario Github:
+Fontao Pagola, José Gastón (222229) -> Usuario Github:
+Gretter Albarracín, Enrique Alberto (180134) -> Usuario Github:
+Guinea Sanchez, Allyson Stefania (187340) -> Usuario Github: allyguinea
+Horne Gorga, Alejandro Daniel (171463) -> Usuario Github:
+Larrosa Yardino, Manuel (175136) -> Usuario Github: mlyardino
+Passaro Botto, Bruno Ignacio (186499) -> Usuario Github:
+Peon Ballesteros, Jessica (202554) -> Usuario Github:
+Pereira Valla, Alejo Gabriel (203067) -> Usuario Github:
+Pintos Costa, Rodrigo (184189) -> Usuario Github: RodriP
+Rebella Vaccaro, Juan Andrés (205300) -> Usuario Github:
+Riaño Alvarez, Federico Pablo (207356) -> Usuario Github:
+Rodriguez Cuitiño, Lucas (204403) -> Usuario Github:
+Settimo Helgue, Matías Luis (152946) -> Usuario Github:
+Techera Galvan, Sebastian Oscar (200131) -> Usuario Github:
+Vico Meyer, Juan Andrés (200135) -> Usuario Github:
+
+
