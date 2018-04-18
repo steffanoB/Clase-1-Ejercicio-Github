@@ -1,4 +1,4 @@
-﻿---------------Ejemplo------------------
+---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -7,7 +7,7 @@ Alonso Pintado, Nicolás (153657) -> Usuario Github: nicoalonsop
 Areosa Denevi, Diego Alvaro (194457) -> Usuario Github:
 Bayuk Gómez, Agustín Andrés (213116) -> Usuario Github:
 Berti Ourthe Cabale, Juan Luis (194398) -> Usuario Github:
-Caraballo Manzi, Sebastián Alfredo (200562) -> Usuario Github:
+Caraballo Manzi, Sebastián Alfredo (200562) -> Usuario Github: sebastiancaraballo
 Comesaña Vidal, Martín (183579) -> Usuario Github: martincomesania
 Díaz Noble, Sergio Daniel (161225) -> Usuario Github:
 Dufourt Fierro, Paula (178419) -> Usuario Github:
